@@ -1,2 +1,2 @@
-std-games
+standard-games
 =========
